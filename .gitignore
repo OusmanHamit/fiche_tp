@@ -1,0 +1,10 @@
+.env
+.vscode
+/datasets
+/tp
+/.DS_Store 
+.DS_Store 
+etl-min.png
+logo.png
+secure-min.png
+readme.md
